@@ -1,0 +1,12 @@
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\bin\Debug\net9.0\ClubSportif.DTO.deps.json
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\bin\Debug\net9.0\ClubSportif.DTO.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\bin\Debug\net9.0\ClubSportif.DTO.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.csproj.AssemblyReference.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.AssemblyInfoInputs.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.AssemblyInfo.cs
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.csproj.CoreCompileInputs.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\refint\ClubSportif.DTO.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ClubSportif.DTO.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.DTO\obj\Debug\net9.0\ref\ClubSportif.DTO.dll

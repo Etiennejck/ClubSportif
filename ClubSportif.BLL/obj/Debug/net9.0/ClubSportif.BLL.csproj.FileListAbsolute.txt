@@ -1,0 +1,17 @@
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.BLL.deps.json
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.BLL.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.BLL.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.DAL.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.Domain.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.DAL.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\bin\Debug\net9.0\ClubSportif.Domain.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.csproj.AssemblyReference.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.AssemblyInfoInputs.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.AssemblyInfo.cs
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.csproj.CoreCompileInputs.cache
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSpor.F7A5083C.Up2Date
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\refint\ClubSportif.BLL.dll
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ClubSportif.BLL.pdb
+C:\Users\e.jonckers\Technofuture_Labo_2025\ClubSportif\ClubSportif.BLL\obj\Debug\net9.0\ref\ClubSportif.BLL.dll
